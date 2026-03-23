@@ -1,11 +1,6 @@
 # A2A Scheduling Project
 
-
-> 📐 **Architecture Diagram**: See `a2a-project.excalidraw` for the editable architecture diagram
-
 A multi-agent system demonstrating Agent-to-Agent (A2A) communication using Google's A2A SDK. The project simulates a real-world scenario where multiple AI agents coordinate to schedule badminton games.
-
-Created by Sahil.
 
 ## 🎯 Project Goal
 
